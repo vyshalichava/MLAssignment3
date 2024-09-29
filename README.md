@@ -85,7 +85,7 @@ Predicted XOR output:
 Features Used:**
 The below are the features used:
 **1. Numerical Features**
-● passenger_count: The number of passengers in the taxi ride.
+● passenger_count: The number of passengers in the taxi ride. <br>
 ● pickup_longitude: Longitude coordinate of the pickup location.
 ● pickup_latitude: Latitude coordinate of the pickup location.
 ● dropoff_longitude: Longitude coordinate of the drop-off location.
